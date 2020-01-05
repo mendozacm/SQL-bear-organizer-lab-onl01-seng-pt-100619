@@ -1,2 +1,2 @@
-INSERT INTO  (name, grade, gpa, tardies)
-    VALUES ("John", 11, 3.4, 3);
+INSERT INTO bears (ID, name, age, gender, color, temperament, alive)
+    VALUES (1, "Mr. Chocolate", 3, "male", "brown", "rowdy", TRUE);
