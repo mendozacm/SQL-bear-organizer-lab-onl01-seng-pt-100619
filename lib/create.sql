@@ -1,5 +1,5 @@
 CREATE TABLE bears (
-  ID INTEGER,
+  ID int NOT NULL PRIMARY KEY,
   name TEXT,
   age INTEGER,
   gender TEXT,
